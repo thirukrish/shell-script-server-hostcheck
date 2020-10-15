@@ -1,0 +1,2 @@
+Server ip1
+server ip2
