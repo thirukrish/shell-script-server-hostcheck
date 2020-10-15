@@ -1,2 +1,3 @@
 # shell-script-server-hostcheck
-check the server status ************
+check the server status 
+************
